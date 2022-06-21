@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525016077415",
+    "project_id": "gmaster-7e8db",
+    "storage_bucket": "gmaster-7e8db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525016077415:android:c7261b3b3928f7e72d30c2",
+        "android_client_info": {
+          "package_name": "com.gmaster.gmaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525016077415-a1dle9ljv7nb204jvm79n3h5qcrfbu9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGlwpWlB_Bh4bY3GrLoTESwRa0hif0Bl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525016077415-a1dle9ljv7nb204jvm79n3h5qcrfbu9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
